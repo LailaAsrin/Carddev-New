@@ -21,72 +21,26 @@ class PagesController extends Controller
         ]);
     }
 
-    public function myprofile()
+    public function profile()
     {
-        return view('user.myprofile', [
+        return view('user.profile', [
             'title' => 'My Profile',
         ]);
     }
 
-    public function ongoing()
+    public function dataalumni()
     {
-        return view('user.ongoing', [
-            'title' => 'Ongoing',
+        return view('user.dataalumni', [
+            'title' => 'Data Alumni',
         ]);
     }
 
-    public function history()
+    public function bantuan()
     {
-        return view('user.history', [
-            'title' => 'History',
+        return view('user.bantuan', [
+            'title' => 'Bantuan',
         ]);
     }
 
-    public function pickup()
-    {
-        return view('user.pickup', [
-            'title' => 'Pickup',
-        ]);
-    }
 
-    public function informasi()
-    {
-        return view('user.informasi', [
-            'title' => 'Informasi',
-        ]);
-    }
-
-    public function informasi2()
-    {
-        return view('user.informasi2', [
-            'title' => 'Informasi',
-        ]);
-    }
-
-    public function exchange()
-    {
-        return view('user.exchange', [
-            'title' => 'Exchange',
-        ]);
-    }
-
-    public function tukar()
-    {
-        return view('user.tukar', [
-            'title' => 'Tukar',
-        ]);
-    }
-
-    public function aboutus()
-    {
-        return view('user.aboutus', [
-            'title' => 'About Us',
-        ]);
-    }
-    public function pricelist()
-    {
-        return view('user.pricelist', [
-            'title' => 'Price List',
-        ]);
-    }
 }
