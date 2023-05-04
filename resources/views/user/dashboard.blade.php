@@ -11,10 +11,9 @@
                         <div class="flex flex-row -mx-3">
                             <div class="flex-none w-2/3 max-w-full px-3">
                                 <div>
-                                    <p class="mb-0 font-sans font-semibold leading-normal text-sm">Today's Money</p>
+                                    <p class="mb-0 font-sans font-semibold leading-normal text-sm">Data Mining</p>
                                     <h5 class="mb-0 font-bold">
-                                        $53,000
-                                        <span class="leading-normal text-sm font-weight-bolder text-lime-500">+55%</span>
+                                        15
                                     </h5>
                                 </div>
                             </div>
@@ -36,10 +35,9 @@
                         <div class="flex flex-row -mx-3">
                             <div class="flex-none w-2/3 max-w-full px-3">
                                 <div>
-                                    <p class="mb-0 font-sans font-semibold leading-normal text-sm">Today's Users</p>
+                                    <p class="mb-0 font-sans font-semibold leading-normal text-sm">RPL</p>
                                     <h5 class="mb-0 font-bold">
-                                        2,300
-                                        <span class="leading-normal text-sm font-weight-bolder text-lime-500">+3%</span>
+                                        20
                                     </h5>
                                 </div>
                             </div>
@@ -61,10 +59,9 @@
                         <div class="flex flex-row -mx-3">
                             <div class="flex-none w-2/3 max-w-full px-3">
                                 <div>
-                                    <p class="mb-0 font-sans font-semibold leading-normal text-sm">New Clients</p>
+                                    <p class="mb-0 font-sans font-semibold leading-normal text-sm">Jaringan</p>
                                     <h5 class="mb-0 font-bold">
-                                        +3,462
-                                        <span class="leading-normal text-red-600 text-sm font-weight-bolder">-2%</span>
+                                        10
                                     </h5>
                                 </div>
                             </div>
@@ -86,10 +83,9 @@
                         <div class="flex flex-row -mx-3">
                             <div class="flex-none w-2/3 max-w-full px-3">
                                 <div>
-                                    <p class="mb-0 font-sans font-semibold leading-normal text-sm">Sales</p>
+                                    <p class="mb-0 font-sans font-semibold leading-normal text-sm">GIS</p>
                                     <h5 class="mb-0 font-bold">
-                                        $103,430
-                                        <span class="leading-normal text-sm font-weight-bolder text-lime-500">+5%</span>
+                                        36
                                     </h5>
                                 </div>
                             </div>
@@ -332,7 +328,7 @@
                 <div
                     class="border-black/12.5 shadow-soft-xl relative z-20 flex min-w-0 flex-col break-words rounded-2xl border-0 border-solid bg-white bg-clip-border">
                     <div class="border-black/12.5 mb-0 rounded-t-2xl border-b-0 border-solid bg-white p-6 pb-0">
-                        <h6>Sales overview</h6>
+                        <h3>Jumlah Alumni <h5>Berdasarkan Tahun</h5></h3>
                         <p class="leading-normal text-sm">
                             <i class="fa fa-arrow-up text-lime-500"></i>
                             <span class="font-semibold">4% more</span> in 2021
