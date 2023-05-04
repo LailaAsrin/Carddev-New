@@ -48,7 +48,7 @@ Route::group(['middleware' => 'prevent-back-history'], function () {
     Route::get('/profile', [PagesController::class, 'profile'])->middleware('auth');
     Route::get('/bantuan', [PagesController::class, 'bantuan'])->middleware('auth');
     Route::get('/dataalumni', [PagesController::class, 'dataalumni'])->middleware('auth');
-    //Route::get('/logout', [LoginController::class, 'destroy'])->middleware('auth');
+    Route::get('/logout', [LoginController::class, 'destroy'])->middleware('auth');
 
 
 
