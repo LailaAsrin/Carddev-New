@@ -15,8 +15,8 @@
          </div>
 
          <div class="mt-2 sm:mx-auto sm:w-full sm:max-w-md">
-             <div class="px-4 py-8 bg-white shadow sm:rounded-lg sm:px-10">
-                 <h2 class="mt-2 text-3xl font-bold font-sans text-center text-gray-900">
+             <div class="px-4 py-8 bg-white shadow sm:rounded-sm sm:px-10">
+                 <h2 class="mt-2 text-3xl font-bold font-serif text-center text-gray-900">
                      Sign In
                  </h2>
                  <br>

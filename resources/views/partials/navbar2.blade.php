@@ -1,10 +1,19 @@
 <!-- repair this code -->
 <header class="relative inset-x-0 bottom-0">
-    <div class="flex inset-x-0 relative w-auto justify-between bg-purple-500 shadow-xl">
+    <div class="flex inset-x-0 relative w-auto justify-between bg-blue-400 shadow-xl">
         <div class="px-4">
-            <a href="/dashboard" class="font-bold text-lg text-primary block py-1">
-                <img src="{{ asset('image/logo.png') }}" alt="logo" class="w-20">
-            </a>
+            <ul class="block lg:flex ">
+                <li>
+                    <a href="/dashboard" class="font-bold text-lg text-primary block py-1">
+                        <img src="{{ asset('image/logo.png') }}" alt="logo" class="w-20">
+
+                    </a>
+                </li>
+                <li>
+                    <div class=" my-6 font-semibold text-white">Universitas Syiah Kuala</div>
+                </li>
+
+            </ul>
 
         </div>
         <div class="flex items-center px-4 ">
@@ -20,10 +29,10 @@
 
 
                     <li class="group">
-                        <a href="/login" class="text-base text-black py-2 mx-8 flex group-hover:text-primary">Login</a>
+                        <a href="/login" class="text-base text-white py-2 mx-8 flex group-hover:text-primary">Login</a>
                     </li>
                     <li class="group">
-                        <a href="/register" class="text-base text-black py-2 mx-8 flex group-hover:text-primary ">Register</a>
+                        <a href="/register" class="text-base text-white py-2 mx-8 flex group-hover:text-primary ">Register</a>
                     </li>
 
 
